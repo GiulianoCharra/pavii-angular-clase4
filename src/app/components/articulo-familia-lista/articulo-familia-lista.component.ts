@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { ArticulosFamilias } from '../../models/articulosFamilia.coleccion';
-import { ArticuloFamilia } from '../../models/articulosFamilias';
+import { ArticulosFamilias } from '../../models/articulosfamilias.collection';
+import { ArticuloFamilia } from '../../models/articulofamilia';
 @Component({
   selector: 'app-articulo-familia-lista',
   templateUrl: './articulo-familia-lista.component.html',
